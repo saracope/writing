@@ -1,4 +1,4 @@
-The whole prospect of finding a welcoming open source project to contribute to can be overwhelming by itself but what about after you dig in to contribute for the first time? You may understand some of the technology but do you understand the open source lingo? Let's break down some files you will likely encounter when contributing to an open source project on GitHub.
+Finding a welcoming open source project to contribute to can be really overwhelming. If it's your first time contributing to open source, you may understand some of the technology being used but what about all the open source lingo? Let's break down some files you will likely encounter when contributing to an open source project on GitHub.
 
 Before you start searching for and review potential projects for your contribution, you should have some familiarity with what files you may see. Not all of the files mentioned here exist in every project, but they’re common enough that knowing about them makes it much easier for you to navigate projects. Files we'll cover:
 
